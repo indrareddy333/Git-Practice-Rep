@@ -1,0 +1,4 @@
+this file consist the notes
+1. firat cmd 
+2, vi names txt
+3. I am using nano
